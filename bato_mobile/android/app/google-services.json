@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402734314792",
+    "project_id": "advmobprog-firebase-c9ce3",
+    "storage_bucket": "advmobprog-firebase-c9ce3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402734314792:android:f7d9998f687c203a014c1d",
+        "android_client_info": {
+          "package_name": "com.example.facebook_replication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_ZbY2R9feIPDnn_hsVJvf9QWSkduwTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
