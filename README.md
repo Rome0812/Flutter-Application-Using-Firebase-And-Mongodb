@@ -138,9 +138,6 @@ flutter test
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/project-name](https://github.com/yourusername/project-name)
 
 ## Acknowledgments
 - Flutter Team
